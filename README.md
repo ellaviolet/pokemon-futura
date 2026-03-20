@@ -1,1 +1,1 @@
-# pokemon-futura
+# Pokemon Futura
